@@ -78,7 +78,6 @@ app.get('/movies', async (req, res) => {
       });
     }
 
-    // You can transform the data here before sending to frontend
     const simplifiedData = {
       page: data.page,
       total_pages: data.total_pages,
