@@ -1,5 +1,6 @@
 # 🎬 Movie Picker
 Simple and interactive app that helps users pick a movie!
+Built using **JavaScript**, **HTML/CSS**, and **Node.js**, it fetches real-time data from **TMDb**.
 
 ## 🚀 Features
 - 🔍 Search for movies by genre
@@ -35,3 +36,8 @@ node server.js
 
 5. **Open frontend**
 - open: http://localhost:5500/frontend/index.html
+
+## 📸 Screenshots
+ <img width="1440" alt="Screenshot 2025-05-04 at 7 23 24 PM" src="https://github.com/user-attachments/assets/76f5e97a-642d-4429-bc65-c264dd4ff98c" />
+ <img width="1440" alt="Screenshot 2025-05-04 at 7 23 43 PM" src="https://github.com/user-attachments/assets/4c4004f7-cb69-4583-a809-5d9adab6d0bf" />
+ <img width="1440" alt="Screenshot 2025-05-04 at 7 24 14 PM" src="https://github.com/user-attachments/assets/5f3dc32b-72b9-483b-85a3-a21fbabaf4c5" />
