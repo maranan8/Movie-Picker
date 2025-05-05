@@ -9,7 +9,6 @@ Built using **JavaScript**, **HTML/CSS**, and **Node.js**, it fetches real-time 
 - 🌐 Uses TMDb to fetch real-time data
 
 ## 📦 Getting Started
-- Clone repo and run locally
 1. **Clone the repo:**
 
 ```bash
