@@ -2,11 +2,11 @@
 Simple and interactive app that helps users pick a movie!
 Built using **JavaScript**, **HTML/CSS**, and **Node.js**, it fetches real-time data from **TMDb**.
 
-## 🚀 Features
-- 🔍 Search for movies by genre
-- 🎞️ View movie details: poster and description
-- 🧠 Clean and intuitive user interface
-- 🌐 Uses TMDb to fetch real-time data
+## 🔧 Features
+- Search for movies by genre
+- View movie details: poster and description
+- Clean and intuitive user interface
+-  Uses TMDb to fetch real-time data
 
 ## 📦 Getting Started
 1. **Clone the repo:**
